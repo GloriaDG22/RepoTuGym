@@ -1,5 +1,4 @@
-{
-  "Ejericios": [
+[
     {
       "nombre": "Flexiones de rodillas",
       "tipo": "ESPALDA",
@@ -61,4 +60,3 @@
       "dificultad": "Difícil"
     }
   ]
-}

@@ -1,0 +1,64 @@
+{
+  "Ejericios": [
+    {
+      "nombre": "Flexiones de rodillas",
+      "tipo": "ESPALDA",
+      "dificultad": "Fácil"
+    },
+    {
+      "nombre": "Flexiones",
+      "tipo": "ESPALDA",
+      "dificultad": "Medio"
+    },
+    {
+      "nombre": "Flexiones Pike",
+      "tipo": "ESPALDA",
+      "dificultad": "Difícil"
+    },
+    {
+      "nombre": "Dominadas con goma",
+      "tipo": "BRAZOS",
+      "dificultad": "Fácil"
+    },
+    {
+      "nombre": "Dominadas",
+      "tipo": "BRAZOS",
+      "dificultad": "Medio"
+    },
+    {
+      "nombre": "Dominadas con peso",
+      "tipo": "BRAZOS",
+      "dificultad": "Difícil"
+    },
+    {
+      "nombre": "Sentadillas",
+      "tipo": "PIERNAS",
+      "dificultad": "Fácil"
+    },
+    {
+      "nombre": "Zacadas con peso",
+      "tipo": "PIERNAS",
+      "dificultad": "Medio"
+    },
+    {
+      "nombre": "Levantar barra en caderas",
+      "tipo": "PIERNAS",
+      "dificultad": "Difícil"
+    },
+    {
+      "nombre": "Abdominales",
+      "tipo": "CORE",
+      "dificultad": "Fácil"
+    },
+    {
+      "nombre": "Plancha",
+      "tipo": "CORE",
+      "dificultad": "Medio"
+    },
+    {
+      "nombre": "Burpee",
+      "tipo": "CORE",
+      "dificultad": "Difícil"
+    }
+  ]
+}

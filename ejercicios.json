@@ -1,72 +1,60 @@
 [
     {
-      "id": "1",
       "nombre": "Flexiones de rodillas",
       "tipo": "ESPALDA",
       "dificultad": "Fácil"
     },
     {
-      "id": "2",
       "nombre": "Flexiones",
       "tipo": "ESPALDA",
       "dificultad": "Medio"
     },
     {
-      "id": "3",
       "nombre": "Flexiones Pike",
       "tipo": "ESPALDA",
       "dificultad": "Difícil"
     },
     {
-      "id": "4",
       "nombre": "Dominadas con goma",
       "tipo": "BRAZOS",
       "dificultad": "Fácil"
     },
     {
-      "id": "5",
       "nombre": "Dominadas",
       "tipo": "BRAZOS",
       "dificultad": "Medio"
     },
     {
-      "id": "6",
       "nombre": "Dominadas con peso",
       "tipo": "BRAZOS",
       "dificultad": "Difícil"
     },
     {
-      "id": "7",
       "nombre": "Sentadillas",
       "tipo": "PIERNAS",
       "dificultad": "Fácil"
     },
     {
-      "id": "8",
       "nombre": "Zacadas con peso",
       "tipo": "PIERNAS",
       "dificultad": "Medio"
     },
     {
-      "id": "9",
       "nombre": "Levantar barra en caderas",
       "tipo": "PIERNAS",
       "dificultad": "Difícil"
     },
     {
-      "id": "10",
       "nombre": "Abdominales",
       "tipo": "CORE",
       "dificultad": "Fácil"
     },
     {
-      "id": "11",
       "nombre": "Plancha",
       "tipo": "CORE",
       "dificultad": "Medio"
     },
     {
-      "id": "12",
       "nombre": "Burpee",
       "tipo": "CORE",
       "dificultad": "Difícil"
